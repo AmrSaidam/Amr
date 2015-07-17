@@ -1,0 +1,43 @@
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\bin\Debug\ManageStock.exe.config
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\bin\Debug\DataBase\Stock.mdf
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\bin\Debug\DataBase\Stock_log.ldf
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\bin\Debug\ManageStock.exe
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\bin\Debug\ManageStock.pdb
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.csprojResolveAssemblyReference.cache
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.Form1.resources
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.Properties.Resources.resources
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.csproj.GenerateResource.Cache
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.exe
+c:\users\p.amr saidam\documents\visual studio 2012\Projects\ManageStock\ManageStock\obj\Debug\ManageStock.pdb
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe.config
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.exe
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.pdb
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\bin\Debug\DataBase\Stock.mdf
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\bin\Debug\DataBase\Stock_log.ldf
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.pdb
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.csprojResolveAssemblyReference.cache
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Form1.resources
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Properties.Resources.resources
+C:\Users\Khalid Sami\Downloads\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.csproj.GenerateResource.Cache
+G:\My work\C#\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe.config
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.exe
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.pdb
+G:\My work\C#\ManageStock\ManageStock\ManageStock\bin\Debug\DataBase\Stock.mdf
+G:\My work\C#\ManageStock\ManageStock\ManageStock\bin\Debug\DataBase\Stock_log.ldf
+G:\My work\C#\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe
+G:\My work\C#\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.pdb
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.csprojResolveAssemblyReference.cache
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Form1.resources
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Properties.Resources.resources
+G:\My work\C#\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.csproj.GenerateResource.Cache
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\bin\Debug\Products.mdf
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\bin\Debug\Products_log.ldf
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe.config
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.exe
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\bin\Debug\ManageStock.pdb
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Form1.resources
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.Properties.Resources.resources
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.csproj.GenerateResource.Cache
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.exe
+G:\My work\C#\New folder\ManageStock\ManageStock\ManageStock\obj\Debug\ManageStock.pdb
